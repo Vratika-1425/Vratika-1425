@@ -19,7 +19,6 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 - 📜 Certified by **AWS** and **HP Foundation**
 - 🧠 Active in national-level **hackathons**
 - 🌱 Currently seeking **AI/ML, Data Science & Generative AI** internship / full-time opportunities
-- 💬 Ask me about: Python, LangChain, RAG pipelines, or full-stack AI apps
 
 <br/>
 
@@ -96,10 +95,10 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 <a href="https://www.linkedin.com/in/vratika-s-986637275">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:vratika.sahota07@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/Vratika-1425">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
