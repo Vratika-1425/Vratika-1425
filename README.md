@@ -13,13 +13,13 @@
 
 I'm an **AI & Data Science student** based in Bengaluru, India, passionate about building intelligent, real-world applications that blend **AI, Machine Learning, and Full-Stack Development**.
 
-- 🔭 Currently exploring **LLMs, RAG, Agentic AI**, and AI-powered automation
-- 🛠️ Comfortable across the full stack — from responsive frontends to scalable backend APIs and production-ready AI integrations
-- 🏆 **First Runner-Up** at **CODE4CHANGE 2025**
-- 📜 Certified by **AWS** and **HP Foundation**
-- 🧠 Active in national-level **hackathons**
-- 🌱 Currently seeking **AI/ML, Data Science & Generative AI** internship / full-time opportunities
-- 💬 Ask me about: Python, LangChain, RAG pipelines, or full-stack AI apps
+- Currently exploring **LLMs, RAG, Agentic AI**, and AI-powered automation
+- Comfortable across the full stack — from responsive frontends to scalable backend APIs and production-ready AI integrations
+- **First Runner-Up** at **CODE4CHANGE 2025**
+- Certified by **AWS** and **HP Foundation**
+- Active in national-level **hackathons**
+- Currently seeking **AI/ML, Data Science & Generative AI** internship / full-time opportunities
+- Ask me about: Python, LangChain, RAG pipelines, or full-stack AI apps
 
 <br/>
 
