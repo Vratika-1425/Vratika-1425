@@ -19,6 +19,7 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 - 📜 Certified by **AWS** and **HP Foundation**
 - 🧠 Active in national-level **hackathons**
 - 🌱 Currently seeking **AI/ML, Data Science & Generative AI** internship / full-time opportunities
+- 💬 Ask me about: Python, LangChain, RAG pipelines, or full-stack AI apps
 
 <br/>
 
@@ -64,16 +65,16 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vratika-1425&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vratika-1425&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vratika-1425&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vratika-1425&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -95,7 +96,7 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 <a href="https://www.linkedin.com/in/vratika-s-986637275">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:vratika.sahota07@gmail.com">
+<a href="mailto:vratika.sahota-7@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Vratika-1425">
@@ -108,7 +109,7 @@ I'm an **AI & Data Science student** based in Bengaluru, India, passionate about
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Vratika-1425&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
